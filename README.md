@@ -1,6 +1,6 @@
 ### Welcome to my Getting and Cleaning Data Course Project
 
-Here you will find 3 files: This Readme doc, the data_set_final.txt as the tidy data set and the codebook.md describing the data and process to get this results.
+Here you will find 3 files: This Readme doc, the data_set_final.txt as the tidy data set and the CodeBook.md describing the data and process to get this results.
 
 Instructions to run the script:
 
